@@ -30,6 +30,7 @@ p {
   position: relative;
   max-height: 330px;
   width: 100%;
+  overflow: hidden;
 }
 
 .img-flex {
@@ -47,7 +48,6 @@ p {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  overflow: hidden;
 }
 
 .banner-content h2,
