@@ -1,11 +1,11 @@
 html {
   box-sizing: border-box;
-  font-family: Open sans, sans-serif;
-  }
+  font-family: 'Open Sans', sans-serif;
+}
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 body {
   margin: 0;
@@ -28,7 +28,7 @@ p {
   width: 100%;
 }
 
-.banner img {
+.img-flex {
   width: 100%;
 }
 
