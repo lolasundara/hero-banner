@@ -28,9 +28,8 @@ p {
 
 .banner {
   position: relative;
-  max-height: 360px;
+  max-height: 340px;
   width: 100%;
-  overflow: hidden;
 }
 
 .img-flex {
@@ -41,7 +40,7 @@ p {
 .banner-content {
   position: absolute;
   max-width: 50em;
-  bottom: 2em;
+  bottom: 1em;
   width: 100%;
   margin-left: 1.5em;
   margin-right: 1em;
