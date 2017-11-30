@@ -46,14 +46,15 @@ p {
   margin-left: 1.5em;
   margin-right: 1em;
   left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 1rem;
+  transform: translateX(-50%);
   margin-top: -1.1em;
 }
 
 .banner-content h2,
 .banner-content p {
   margin: 0;
+  margin-bottom: .2em;
 }
 
 span {
