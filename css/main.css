@@ -15,7 +15,9 @@ h2 {
   font-size: 4rem;
   font-weight: bold;
   color: #fff;
-  margin-bottom: 1em;
+  width: 100%;
+  font-style: normal;
+  background-color: rgba(0, 0, 0, .5);
 }
 
 p {
@@ -28,6 +30,7 @@ p {
   position: relative;
   max-height: 360px;
   width: 100%;
+  overflow: hidden;
 }
 
 .img-flex {
@@ -40,7 +43,7 @@ p {
   max-width: 50em;
   bottom: 2em;
   width: 100%;
-  margin-left: 1em;
+  margin-left: 1.5em;
   margin-right: 1em;
 }
 
